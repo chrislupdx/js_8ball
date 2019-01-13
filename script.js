@@ -21,8 +21,8 @@ function shuffle(array) {
 
   return array;
 }
-responses = shuffle(responses)
-console.log(responses)
+responses = shuffle(responses);
+alert(responses[0])
 
 }
 
